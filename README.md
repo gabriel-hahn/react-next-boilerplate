@@ -23,10 +23,6 @@ To run the project as development mode, you can use ```yarn dev``` or ```npm run
 
 ```yarn storybook``` will open the storybook page at port 6006 and ```yarn build-storybook``` will create static files to serve storybook if you need it.
 
-## Authors
-
-[Gabriel Hahn Schaeffer](https://github.com/gabriel-hahn/)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
