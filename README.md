@@ -4,7 +4,7 @@ A NextJS boilerplate with RTL, Styled Components, Storybook, TypeScript, Husky, 
 
 |React|Next|Next PWA|Styled Components|TypeScript|Testing Library|
 |-----|----|--------|-----------------|----------|---------------|
-|v16.13.1|v9.4.4|v3.1.1|v5.1.1|v3.9.5|v10.4.7|
+|v16.14.0|v9.5.5|v3.1.5|v5.1.1|v4.0.3|v11.1.0|
 
 ## Getting Started
 
