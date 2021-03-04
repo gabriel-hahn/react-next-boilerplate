@@ -1,6 +1,6 @@
 import * as S from './styles';
 
-const test;
+const ssdasd;
 
 const Main = ({
   title = 'React - NextJS',
