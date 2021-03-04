@@ -26,46 +26,26 @@ exports[`<Main /> should render the heading 1`] = `
 }
 
 .c1 {
-  width: 25rem;
-  margin-bottom: 2rem;
-}
-
-.c2 {
   font-size: 2.5rem;
 }
 
-.c3 {
+.c2 {
   font-size: 2rem;
   font-weight: 400;
-}
-
-.c4 {
-  margin-top: 3rem;
-  width: min(30rem,100%);
 }
 
 <main
   class="c0"
 >
-  <img
-    alt="Imagem de um átomo e React avançado escrito ao lado"
-    class="c1"
-    src="/img/logo.svg"
-  />
   <h1
-    class="c2"
+    class="c1"
   >
     React - NextJS
   </h1>
   <h2
-    class="c3"
+    class="c2"
   >
     TypeScript, ReactJS, NextJS e Styled Components
   </h2>
-  <img
-    alt="Um desenvolvedor de frente para a tela com código"
-    class="c4"
-    src="/img/hero-illustration.svg"
-  />
 </main>
 `;
