@@ -1,7 +1,5 @@
 import * as S from './styles';
 
-const asd: string = 22;
-
 const Main = ({
   title = 'React - NextJS',
   description = 'TypeScript, ReactJS, NextJS e Styled Components',
