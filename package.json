@@ -23,7 +23,7 @@
     ]
   },
   "dependencies": {
-    "next": "10.1.3",
+    "next": "10.2.0",
     "next-pwa": "^5.2.15",
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -37,7 +37,7 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@types/jest": "^26.0.22",
-    "@types/node": "14.14.41",
+    "@types/node": "15.0.1",
     "@types/react": "17.0.4",
     "@types/styled-components": "^5.1.9",
     "@typescript-eslint/eslint-plugin": "^3.7.0",
