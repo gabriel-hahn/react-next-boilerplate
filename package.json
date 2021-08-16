@@ -39,7 +39,7 @@
     "@types/jest": "^26.0.23",
     "@types/node": "16.4.13",
     "@types/react": "17.0.15",
-    "@types/styled-components": "^5.1.10",
+    "@types/styled-components": "^5.1.12",
     "@typescript-eslint/eslint-plugin": "^3.7.0",
     "@typescript-eslint/parser": "^3.10.1",
     "babel-loader": "^8.2.2",
