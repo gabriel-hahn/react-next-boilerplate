@@ -1,13 +1,9 @@
-import * as S from './styles';
+interface IMainProps {
+  title?: string;
+}
 
-const Main = ({
-  title = 'React - NextJS',
-  description = 'TypeScript, ReactJS e NextJS',
-}) => (
-  <S.Wrapper>
-    <S.Title>{title}</S.Title>
-    <S.Description>{description}</S.Description>
-  </S.Wrapper>
+export const Main = ({ title = "React - NextJS" }: IMainProps) => (
+  <main>
+    <h1 className="text-3xl font-bold underline">{title}</h1>
+  </main>
 );
-
-export default Main;
