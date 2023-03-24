@@ -1,12 +1,12 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen } from "@testing-library/react";
 
-import Main from '.';
+import { Main } from ".";
 
-describe('<Main />', () => {
-  it('should render the heading', () => {
+describe("<Main />", () => {
+  it("should render the heading", () => {
     const { container } = render(<Main />);
 
-    screen.getByRole('heading', { name: /react - nextjs/i });
+    screen.getByRole("heading", { name: /react - nextjs/i });
 
     expect(container.firstChild).toMatchSnapshot();
   });
