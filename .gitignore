@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/storybook-static
 
 # testing
 /coverage
@@ -18,20 +17,20 @@
 
 # misc
 .DS_Store
+*.pem
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
 # local env files
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env*.local
 
-# sw
-public/sw.js
-public/workbox-*.js
+# vercel
+.vercel
 
-.vscode
+# typescript
+*.tsbuildinfo
+next-env.d.ts
